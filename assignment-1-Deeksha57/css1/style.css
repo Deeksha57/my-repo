@@ -1,0 +1,164 @@
+#header {
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707);
+    background-image: url("../image/bgd.png");
+    width: 1366px;
+  height: 480px;
+   position: relative;
+   background-size: cover;
+   
+}
+
+
+#best-restaurant {
+    position: absolute;
+    top:30%;
+    left: 35%;
+}
+.elipse {
+  position: absolute;
+   width: 80px;
+  height: 100px;
+  margin: 50px 500px 30px 600px;
+  padding: 24px 40px 24px 39px;
+  border: solid 1px #707070;
+  background-color: #fff;
+  border-radius: 50%;
+  text-align: center;
+}
+.e {
+    width: 68px;
+  height: 110px;
+  font-family: Poppins;
+  font-size: 70px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: inherit;
+  line-height: 1.51;
+  letter-spacing: normal;
+  text-align: center;
+  color: #eb2929;
+  padding: 25%;
+  margin-left: -8px;
+}
+.white-text {
+    width: 754px;
+  height: 51px;
+  margin-left: -20px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+
+#cloumn-3 {
+display: inline-block;
+    bottom: 284px;
+    top: 636px;
+    left: 278px;
+    right: 113px;
+    width: 360px;
+    height: 160px;
+    margin: 33px 60px 26px 45px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+#cloumn-1
+{
+    display: inline-block;
+    left: 98px;
+    bottom: 284px;
+   top: 636px;
+   right: 893px;
+    width: 360px;
+  height: 160px;
+  margin: -10px 40px 10px 20px;
+  padding: 0 34px 0 0;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  
+}
+#cloumn-2 {
+    display: inline-block;
+    bottom: 284px;
+    top: 636px;
+    left: 488px;
+    right: 600px;
+    width: 360px;
+    height: 160px;
+    margin: 30px -15px 40px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+#cloumn-4 {
+    display: inline-block; 
+    width: 30%;
+    width: 360px;
+  height: 160px;
+  margin: 33px 40px 26px 20px;
+  padding: 0 34px 0 0;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  
+}
+#cloumn-5 {
+    display: inline-block;
+    width: 30%;
+    width: 360px;
+  height: 160px;
+  margin: 33px -15px 40px;
+  padding: 0 34px 0 0;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+#cloumn-6 {
+    display: inline-block;
+    width: 30%;
+    width: 360px;
+    height: 160px;
+    margin: 33px 60px 26px 45px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+
+#button {
+    position: absolute;
+    background-color: transparent;
+    font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  border:1px solid white;
+  padding:8px;
+  right: 101px;
+  top: 17px;
+}
+
+#login {
+    position: absolute;
+    right: 305px;
+    top:29px;
+    color: #fff;
+    font-size: 20px;
+    font-family: Poppins;
+
+}
+
+.disp-idly{
+  background-image: url("../image/idly.png");
+  height: 160px;
+  width:230px;
+}

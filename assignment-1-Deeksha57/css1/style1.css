@@ -1,0 +1,247 @@
+#header {
+  height: 100px;
+  position: relative;
+}
+
+#login-header {
+  position: absolute;
+  right: 0;
+  top:20px;
+}
+
+#sticky-header {
+  position: relative;
+  top: 0px;
+  background-color: #ce0505;
+}
+
+#width-20 {
+  display: inline-block;
+    width: 260px;
+    height: 600px;
+    margin: 27px 45px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    margin-top: 130px;
+}
+
+#width-70 {
+  display: inline-block;
+  width: 70%;
+}
+#button {
+  position: absolute;
+  background-color: transparent;
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.56;
+letter-spacing: normal;
+text-align: left;
+color: #fff;
+border:1px solid white;
+padding:8px;
+right: 101px;
+top: 17px;
+}
+
+#login {
+  position: absolute;
+  right: 305px;
+  top:29px;
+  color: #fff;
+  font-size: 20px;
+  font-family: Poppins;
+
+}
+.elipse {
+  position: absolute;
+  border-radius: 50%;
+  width: 52px;
+  height: 60px;
+  margin: 0 861px 0 0;
+  padding: 1px 10px 4px;
+  background-color: #fff;
+  margin-top: 18px;
+  margin-left: 100px;
+}
+.e {
+  position: absolute;
+  width: 32px;
+  height: 50px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #eb2929;
+  margin-left: 15px;
+}
+.Breakfast-Places-in-Mumbai {
+  position: absolute;
+  width: 512px;
+  height: 51px;
+  margin: 37px 741px 27px 113px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.Filters {
+  width: 55px;
+  height: 25px;
+  margin: 0 154px 10px 0;
+  font-family: Poppins;
+  font-size: 23px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Select-Location {
+  position: absolute;
+  width: 106px;
+  height: 20px;
+  margin: 20px 102px 11px 1px;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #192f60;
+  margin-left: -10px;
+}
+.Rectangle-2236 {
+  position: absolute;
+  width: 208px;
+  height: 35px;
+  margin: 11px 0 22px 1px;
+  padding: 8px 16.7px 7px 15px;
+  border-radius: 3px;
+  border: solid 1px #8c96ab;
+  margin-top: 40px;
+  padding-bottom: 0px;
+}
+.Select-Location {
+  width: 106px;
+  height: 20px;
+  margin: 0 61.1px 0 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.Cuisine {
+  position: absolute;
+  width: 51px;
+  height: 20px;
+  margin: 22px 157px 15px 1px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-top: 110px;
+}
+.check-box {
+  position: absolute;
+  margin-top: 150px;
+}
+
+.second-div{
+position: absolute;
+margin-top: 190px;
+}
+.Cost-For-Two {
+  position: absolute;
+  width: 120px;
+  height: 20px;
+  margin: 26px 119px 15px 1px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-top: 110px;
+}
+.radio {
+  position: absolute;
+  margin-top: 150px;
+}
+.Sort {
+  position: absolute;
+  width: 37px;
+  height: 25px;
+  margin: 490px 172px 15px 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.radio-1 {
+  position: absolute;
+  margin-top: 530px;
+  margin-left: -5px;
+}
+.Rectangle-5 {
+  position: absolute;
+  width: 250px;
+  height: 125px;
+  margin: 27px 300px 330px 45px;
+  padding: 155px 235px 154px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  margin-left: 418px;
+  margin-top: -50px;
+}
+.Sorry-No-result-found {
+  position: absolute;
+  width: 400px;
+  height: 43px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}

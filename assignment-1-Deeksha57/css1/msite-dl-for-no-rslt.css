@@ -1,0 +1,110 @@
+.Web-1920-14 {
+    position: absolute;
+     margin-left: 400px;
+      width: 420px;
+      height: 910px;
+      padding: 0 0 47px;
+      background-color: #fbfbfb;
+    }
+    .Rectangle-2299 {
+      width: 375px;
+      height: 60px;
+      margin: 0 0 31px;
+      padding: 10px 24px 10px 20px;
+      background-color: #ce0505;
+    }
+    .elipse {
+      position: absolute;
+      border-radius: 50%;
+      width: 38px;
+      height: 48px;
+      margin: 0 861px 0 0;
+      padding: 1px 10px 4px;
+      background-color: #fff;
+      margin-top:-100px;
+      margin-left: 20px;
+    }
+    .e {
+      position: absolute;
+      width: 32px;
+      height: 50px;
+      font-family: Poppins;
+      font-size: 40px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.52;
+      letter-spacing: normal;
+      text-align: center;
+      color: #eb2929;
+      margin-left: 6px;
+      margin-top: -5px;
+    }
+    #button {
+      position: absolute;
+      background-color: transparent;
+      font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    border:1px solid white;
+    padding:6px;
+    right: 20px;
+    width: 130px;
+    top: 20px;
+    }
+    
+    #login {
+      position: absolute;
+      right: 190px;
+      top:25px;
+      color: #fff;
+      font-size: 20px;
+      font-family: Poppins;
+    
+    }
+    
+    .Breakfast-Places-in-Mumbai {
+      position: absolute;
+      width: 400px;
+      height: 51px;
+      margin: -5px 741px 27px 28px;
+      font-family: Poppins;
+      font-size: 25px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+    }
+    .Rectangle-2300 {
+        position: absolute;
+        width: 218px;
+        height: 70px;
+        margin: 24px 1px 0 0;
+        padding: 98px 101px 98px 102px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #fff;
+        margin-top: 50px;
+      }
+      .Sorry-No-result-found {
+          position: absolute;
+        width: 500px;
+        height: 28px;
+        font-family: Poppins;
+        font-size: 25px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+      }
